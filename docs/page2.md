@@ -9,3 +9,7 @@ if time < 1200:
 else:
     print("Good Afternoon")
 ```
+
+### some math equations
+
+$$f(x) = x^2 + 4$$
